@@ -1,0 +1,45 @@
+📦 Product Insights
+Chairs generate the highest revenue and sales volume, indicating strong and consistent demand.
+Phones have the lowest performance in both revenue and quantity, suggesting lower market demand.
+Products like laptops and monitors generate high revenue despite lower quantities, indicating they are high-value items.
+
+👥 Customer Insights
+A small group of customers contributes significantly to total revenue.
+Customer C38840 is the highest spender, indicating a potential VIP customer segment.
+
+💳 Payment Insights
+Payment methods show relatively balanced usage, indicating flexibility and accessibility for customers.
+Some payment methods contribute slightly more to revenue, suggesting differences in customer segments.
+
+🎟️ Coupon Insights
+Orders using coupons generate significantly higher total revenue compared to those without coupons.
+However, the average order value remains similar, suggesting that coupons increase purchase frequency rather than order size.
+
+📦 Order Status Insights
+The number of cancelled orders is relatively high compared to completed orders.
+This may indicate operational inefficiencies, customer dissatisfaction, or issues in order fulfillment.
+
+📅 Time-Based Insights
+Sales peak in Month 6, indicating a seasonal increase in demand.
+Sales are lowest in Month 9, suggesting reduced customer activity.
+Sales patterns vary across days, with certain days generating higher revenue despite similar order counts.
+
+🛒 Basket & Behavior Insights
+Some products appear more frequently in carts, indicating strong customer interest.
+Customer purchasing behavior shows consistency with occasional high-value transactions.
+
+💰 Revenue Insights
+Revenue is driven by both:
+High-volume products (e.g., chairs)
+High-value products (e.g., printers, laptops)
+Small differences in quantity can still result in similar revenue due to price differences.
+
+🔗 Referral Insights
+Referral sources contribute differently to both traffic and revenue.
+Some sources generate higher revenue despite fewer orders, indicating higher-quality traffic.
+
+📊 Overall Insight
+The dataset reflects a stable sales environment with:
+Consistent customer behavior
+Seasonal trends
+A mix of regular and high-value transactions
