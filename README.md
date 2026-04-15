@@ -45,8 +45,11 @@ The dataset contains sales transaction data with the following key columns:
 
   * No duplicate rows
   * No duplicate OrderIDs
+  
+   ![No Duplicate](https://github.com/Ahmad-Balata/DecodeLabs-Internship-AhmadBalata/blob/main/Proofs/No_Duplicate.png)
   * No missing values after cleaning
-
+ 
+   ![After Cleaning](https://github.com/Ahmad-Balata/DecodeLabs-Internship-AhmadBalata/blob/main/Proofs/After_Cleaning.png) 
 ---
 
 ## 📊 Exploratory Data Analysis (EDA)
@@ -68,6 +71,7 @@ The dataset contains sales transaction data with the following key columns:
 * Identified **8 high-value transactions**
 * These outliers significantly impact the average revenue and represent bulk or premium purchases
 
+ ![Outliers](https://github.com/Ahmad-Balata/DecodeLabs-Internship-AhmadBalata/blob/main/Proofs/Outliers.png)
 ---
 
 ### 📈 Trends Analysis
@@ -76,6 +80,7 @@ The dataset contains sales transaction data with the following key columns:
 * Identified peak and low sales periods
 * Observed potential **seasonal patterns**
 
+ ![Trend](https://github.com/Ahmad-Balata/DecodeLabs-Internship-AhmadBalata/blob/main/Proofs/Trend.png)
 ---
 
 ## 📌 Key Business Insights
@@ -100,6 +105,7 @@ The dataset contains sales transaction data with the following key columns:
   * `GROUP BY` → segmentation
   * `ORDER BY` → ranking
 
+![Coupon Query](https://github.com/Ahmad-Balata/DecodeLabs-Internship-AhmadBalata/blob/main/Proofs/Coupon_Query.png)
 ---
 
 ## 📊 Key Metrics (KPIs)
@@ -123,6 +129,7 @@ The dataset contains sales transaction data with the following key columns:
 │   └── analysis.sql
 ├── report/
 │   └── insights.txt
+|   Proofs/
 └── README.md
 ```
 
