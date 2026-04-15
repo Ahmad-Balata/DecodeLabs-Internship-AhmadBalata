@@ -139,4 +139,5 @@ It highlights how data analysis can support business decisions by identifying tr
 ## Author
 
 **Ahmad Balata**
+
 Data Analyst | Excel | Python | SQL | Power BI
