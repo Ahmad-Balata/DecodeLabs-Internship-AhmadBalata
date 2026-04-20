@@ -1,5 +1,6 @@
 -- create database DecodeLaps_Intern
--- use DecodeLaps_Intern go
+-- use DecodeLaps_Intern
+-- go
 
 -- * import dataset *
 
@@ -9,7 +10,7 @@ select top 10 * from sales
 -- =====================================
 -- Sum Of Total Price
 select round(Sum(TotalPrice),2) as Sum_Of_Total_Price from sales
--- 
+-- 1264761.96
 -- =====================================
 
 -- =====================================
