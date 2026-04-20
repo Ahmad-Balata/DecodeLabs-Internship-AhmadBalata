@@ -145,7 +145,8 @@ Key Highlights:
 │   └── analysis.sql
 ├── report/
 │   └── insights.txt
-|   Proofs/
+│   Proofs/
+│   Dashboard.png
 └── README.md
 ```
 
