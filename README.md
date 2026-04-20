@@ -110,12 +110,28 @@ The dataset contains sales transaction data with the following key columns:
 
 ## 📊 Key Metrics (KPIs)
 
-* **Average Order Value (AOV)**
-* **Total Revenue**
-* **Top Products by Revenue**
-* **Top Customers by Spending**
+- **Total Revenue**
+- **Total Orders**
+- **Average Order Value (AOV)**
+- **Unique Customers**
 
 ---
+
+## 📊 Data Visualization
+
+An interactive dashboard was built using Power BI to transform analytical findings into clear business insights.
+
+Key Highlights:
+- Identified seasonal sales trends **(peak in June)**
+- Detected high cancellation rate **(~20%)**
+- Highlighted top-performing products driving revenue
+
+---
+
+📊 Dashboard Preview!
+
+![Dashboard](Dashboard.png)
+
 
 ## Project Structure
 
