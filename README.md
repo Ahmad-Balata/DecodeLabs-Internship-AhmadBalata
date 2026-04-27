@@ -122,9 +122,19 @@ The dataset contains sales transaction data with the following key columns:
 An interactive dashboard was built using Power BI to transform analytical findings into clear business insights.
 
 Key Highlights:
-- Identified seasonal sales trends **(peak in June)**
+- Peak sales occur in June (seasonality impact)
+- High-value orders significantly influence revenue
+- Product performance differs between volume and value
+- Coupons contribute to higher overall sales
 - Detected high cancellation rate **(~20%)**
-- Highlighted top-performing products driving revenue
+
+---
+
+## 📊 Dashboard Features
+- Drill Through Analysis  
+- Dynamic Tooltips  
+- Interactive Metric Switching (Field Parameters)  
+- Business KPIs (Revenue, AOV, Trends)
 
 ---
 
@@ -149,6 +159,12 @@ Key Highlights:
 │   Dashboard.png
 └── README.md
 ```
+
+---
+
+## Link post on LinkedIN :
+
+https://www.linkedin.com/feed/update/urn:li:activity:7454539398592917505/
 
 ---
 
